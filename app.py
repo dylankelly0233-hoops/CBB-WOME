@@ -9,7 +9,7 @@ st.set_page_config(page_title="CBB WOME Debugger", layout="wide")
 
 # --- CONFIGURATION ---
 API_KEY = 'rTQCNjitVG9Rs6LDYzuUVU4YbcpyVCA6mq2QSkPj8iTkxi3UBVbic+obsBlk7JCo' 
-YEAR = 2025  # <--- CRITICAL: Set to 2025 for the 2025-26 Season
+YEAR = 2026  # <--- CRITICAL: Set to 2025 for the 2025-26 Season
 BASE_URL = 'https://api.collegebasketballdata.com'
 HEADERS = {'Authorization': f'Bearer {API_KEY}', 'accept': 'application/json'}
 
